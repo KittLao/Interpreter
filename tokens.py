@@ -5,7 +5,7 @@ class TokenType(Enum):
 	NUMBER = 0
 	PLUS = 1
 	MINUS = 2
-	MULTIPLY = 2
+	MULTIPLY = 3
 	DIVIDE = 4
 	L_PAREN = 5
 	R_PAREN = 6
